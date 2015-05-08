@@ -7,6 +7,8 @@ my stared python libraries. Inspired by [awesome-python](https://github.com/vint
     - [Admin](#admin)
     - [Data](#data)
     - [Tool](#tool)
+    - [Web](#web)
+    - [Reference](#reference)
 
 ---
 
@@ -23,6 +25,15 @@ my stared python libraries. Inspired by [awesome-python](https://github.com/vint
 * [pgweb](https://github.com/sosedoff/pgweb) - Web-based PostgreSQL database browser
 
 ## Tool
-* [Comcast](https://github.com/tylertreat/Comcast) - Simulating shitty network connections so you can build better systems
 * [Hound](https://github.com/etsy/Hound) - Lightning fast code searching made easy
 * [vault](https://github.com/hashicorp/vault) - A tool for managing secrets
+
+## Web
+* [Comcast](https://github.com/tylertreat/Comcast) - Simulating shitty network connections so you can build better systems
+* [http2](https://github.com/bradfitz/http2) - HTTP/2 support for Go (in active development)
+* [websocketd](https://github.com/joewalnes/websocketd) - Turn any program that uses STDIN/STDOUT into a WebSocket server. Like inetd, but for WebSockets
+
+
+## Reference
+* [algorithms](https://github.com/arnauddri/algorithms) - Algorithms & Data Structures in Go
+* [awesome-go](https://github.com/avelino/awesome-go) - A curated list of awesome Go frameworks, libraries and software 
