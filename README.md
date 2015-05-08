@@ -1,7 +1,7 @@
 # Go-Stars
 ==============
 
-my stared python libraries. Inspired by [awesome-python](https://github.com/vinta/awesome-python).
+my stared Go libraries. Inspired by [awesome-python](https://github.com/vinta/awesome-python).
 
 - [Go Stars](#go-stars)
     - [Admin](#admin)
