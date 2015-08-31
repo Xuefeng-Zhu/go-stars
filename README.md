@@ -35,6 +35,7 @@ My stared Go libraries. Inspired by [awesome-python](https://github.com/vinta/aw
 
 ## Reference
 * [algorithms](https://github.com/arnauddri/algorithms) - Algorithms & Data Structures in Go
+* [go-datastructures](https://github.com/Workiva/go-datastructures) - Go-datastructures is a collection of useful, performant, and threadsafe Go datastructures
 * [awesome-go](https://github.com/avelino/awesome-go) - A curated list of awesome Go frameworks, libraries and software 
 * [GoBooks](https://github.com/dariubs/GoBooks) - A curated list of Golang books
 
